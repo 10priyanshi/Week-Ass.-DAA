@@ -1,1 +1,1 @@
-# Week-Ass.-DAA
+# Weekly-DAA
